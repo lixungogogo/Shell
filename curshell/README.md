@@ -1,0 +1,1 @@
+基于curl与sed的有道翻译shell脚本
